@@ -1,25 +1,24 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            CodeInventory
-tagline:          "Nerd's brain feeder!!"
-description:      "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
 
-url:              http://codeinventory.com
-google_analytics_id:	UA-46791108-1
 author:
-  name:           'Amey Jadiye'
-  url:            https://twitter.com/ameyjadiye
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-paginate:         3
+paginate:         5
 
 # Custom vars
-version:          1.0.0
+version:          2.0.0
 
 github:
-  repo:           https://github.com/codeinventory/codeinventory.github.io
+  repo:           https://github.com/poole/hyde
