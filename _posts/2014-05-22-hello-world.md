@@ -4,8 +4,7 @@ title: Hello World
 ---
 
 {% highlight php %}
-<?php
+    <?php
 
-print "Hello World!";
-
+    print "Hello World!";
 {% endhighlight %}
