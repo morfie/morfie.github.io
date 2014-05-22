@@ -3,8 +3,7 @@ layout: post
 title: Hello World
 ---
 
-{% highlight php %}
-//<?php
-
-
+{% highlight python %}
+def yourfunction():
+     print "Hello World!"
 {% endhighlight %}
