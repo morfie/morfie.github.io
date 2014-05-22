@@ -4,6 +4,7 @@ title: Hello World
 ---
 
 {% highlight php %}
-def yourfunction():
-     print "Hello World!"
+<?php
+
+echo "Hello World!";
 {% endhighlight %}
