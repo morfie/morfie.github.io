@@ -13,8 +13,3 @@ var adder = new Function("a", "b", "return a + b");
 adder(2, 6);
 // > 8
 {% endhighlight %}
-
-{% highlight php %}
-<?php
-print "Hello World!";
-{% endhighlight %}
