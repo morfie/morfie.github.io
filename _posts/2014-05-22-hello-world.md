@@ -5,10 +5,4 @@ title: Hello World
 
 Első bejegyzés
 
-{% highlight php %}
-<?php
-
-print "Hello World!";
-{% endhighlight %}
-
-...
+<script src="https://gist.github.com/morfie/c2a82cdab6dd3edfbd30.js"></script>
